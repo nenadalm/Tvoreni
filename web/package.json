@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "node ./bin/build.mjs",
+    "watch": "node ./bin/watch.mjs"
+  },
+  "devDependencies": {
+    "marked": "^16.4.1"
+  }
+}
