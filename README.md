@@ -9,3 +9,4 @@ Manumi komponenty + tavka
 # Věnec
 Pepco + Vietnamec
 <img src="20251021_072826.jpg">
+<img src ="20251021_072838.jpg">
