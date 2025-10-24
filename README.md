@@ -7,11 +7,16 @@ Manumi komponenty + tavka
 <img src="20251016_192134.jpg" height="400">
 
 # Věnec
+
 Pepco + Vietnamec
+
 <img src="20251021_072826.jpg" height="400">
 <img src ="20251021_072838.jpg" height="400">
 
 # Dračí oči
+
+Monsterance + laky Teta
+
 <img src ="20251015_214358.jpg" height="400">
 <img src ="20251015_214420.jpg" height="400">
 <img src ="20251015_214633.jpg" height="400">
