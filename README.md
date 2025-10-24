@@ -8,10 +8,10 @@ Manumi komponenty + tavka
 
 # Věnec
 Pepco + Vietnamec
-<img src="20251021_072826.jpg">
-<img src ="20251021_072838.jpg">
+<img src="20251021_072826.jpg" height="400">
+<img src ="20251021_072838.jpg" height="400">
 
 # Dračí oči
-<img src ="20251015_214358.jpg">
-<img src ="20251015_214420.jpg">
-<img src ="20251015_214633.jpg">
+<img src ="20251015_214358.jpg" height="400">
+<img src ="20251015_214420.jpg" height="400">
+<img src ="20251015_214633.jpg" height="400">
