@@ -48,6 +48,7 @@ export async function build() {
 const buildWatched = debounce(build, 50);
 
 export async function watch() {
+  buildWatched();
   for await (const e of fs.watch(rootdir, { recursive: true })) {
     if (!isEventInteresting(e)) {
       continue;
