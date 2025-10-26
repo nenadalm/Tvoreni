@@ -32,3 +32,4 @@ Monsterance + laky Teta
 Lexicon workshop
 
 <img src ="20251025_150625.jpg" height="400">
+<img src ="
