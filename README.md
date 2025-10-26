@@ -10,6 +10,7 @@ Manumi komponenty + tavka
 <img src ="20251025_150416.jpg" height="400">
 <img src ="20251025_150426.jpg" height "400">
 <img src ="20251025_150431.jpg" height "400">
+<img src ="20251025_150435.jpg" height "400">
 
 # Věnec
 
