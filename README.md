@@ -26,3 +26,9 @@ Monsterance + laky Teta
 <img src ="20251015_214358.jpg" height="400">
 <img src ="20251015_214420.jpg" height="400">
 <img src ="20251015_214633.jpg" height="400">
+
+# Sova
+
+Lexicon workshop
+
+<img src ="20251025_150625.jpg" height="400">
