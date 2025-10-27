@@ -60,7 +60,7 @@ async function hashAssets(page) {
  */
 async function copyFile(src, dest) {
   if (src.endsWith(".jpg")) {
-    await spawn("magick", [
+    await spawn("convert", [
       src,
       "-auto-orient",
       "-strip",
